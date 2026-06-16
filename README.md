@@ -25,10 +25,13 @@
 右：最终道路影子分割结果，红色区域为 shadow mask
 ```
 
-<img src="./dist/final_overlays1.jpg">
-<img src="./dist/final_overlays2.jpg">
-<img src="./dist/heatmap1.jpg">
-<img src="./dist/heatmap2.jpg">
+<div style="display: flex;justify-content: center">
+    <img src="./dist/final_overlays1.jpg"><img src="./dist/heatmap1.jpg">
+</div>
+
+<div style="display: flex;justify-content: center">
+    <img src="./dist/final_overlays2.jpg"><img src="./dist/heatmap2.jpg">
+</div>
 
 
 当前效果评价：
