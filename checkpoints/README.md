@@ -1,0 +1,1 @@
+由于GitHub无法上传大文件，请在 [此处下载modal](https://github.com/YoungYa01/road-shadow-seg/releases/download/BateModal/best.pth)
